@@ -6,4 +6,4 @@ Esse site foi feito com base em um curso na Udemy chamado Desenvolvimento Web Co
 Diferente dos projetos anteriores, com esse projeto, foi aplicado tecnologias mais recentes de HTML5, como por exemplo o uso de header, nav, section, article, aside e footer.
 <br/><br/><br/>
 
-![image](https://github.com/user-attachments/assets/40a436f4-a00a-4e6b-8137-81e54cd152a2)
+![image](https://github.com/user-attachments/assets/cf2ad463-643b-4103-a3ac-5de3ed8c6712)
